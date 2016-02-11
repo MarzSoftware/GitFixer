@@ -1,0 +1,31 @@
+this is some 
+first text here
+
+<<<<<<< HEAD
+This is all
+the       head text
+and stuff
+and things
+=======
+tail stuff here
+with 
+a 
+
+few different lines yeah
+>>>>>>>
+middle stuff is cool
+<<<<<<< HEAD
+keep this head
+=======
+just delete this please
+>>>>>>>
+
+<<<<<<< HEAD
+just delete head
+=======
+keep this tail please
+>>>>>>>
+Here is the end!!!
+
+
+oh yeah
